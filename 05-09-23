@@ -1,0 +1,8 @@
+vector<vector<int>> adjList(V);
+        for(pair<int, int> edge : edges) {
+            int u = edge.first;
+            int v = edge.second;
+            adjList[u].push_back(v);
+            adjList[v].push_back(u);
+        }
+        return adjList;
