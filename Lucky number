@@ -1,0 +1,10 @@
+ int cnt = 2;
+        while(cnt <= n){
+            if(n % cnt == 0)
+                return false;
+
+            n -= n/cnt;
+            ++cnt;
+        }
+
+        return true;
