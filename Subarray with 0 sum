@@ -1,0 +1,9 @@
+HashSet<Integer> h=new HashSet<>();
+        //Your code here
+        int sum=0;
+        for(int i:arr){
+            sum+=i;
+            if(h.contains(sum)||sum==0) return true;
+            h.add(sum);
+        }
+        return false;
