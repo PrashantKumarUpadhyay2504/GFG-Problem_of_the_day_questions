@@ -1,0 +1,388 @@
+{
+    "PrimaryCategoryData": [
+        {
+            "Id": 37358,
+            "Name": "Cream Biscuit",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 50,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 5202,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        }
+    ],
+    "SecondaryCategoryData": [
+        {
+            "Id": 43288,
+            "Name": "Milky",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 40,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 691,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 43285,
+            "Name": "Chocolate",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 10,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 3267,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 43287,
+            "Name": "Orange",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 543,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 43286,
+            "Name": "Ilaychi",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 701,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        }
+    ],
+    "ProductData": [
+        {
+            "Id": 952462,
+            "Name": "Milky Biscuit-1",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 40,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 261,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952443,
+            "Name": "Choco Biscuit-10",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 10,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 835,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952434,
+            "Name": "Choco Biscuit-1",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 487,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952435,
+            "Name": "Choco Biscuit-2",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 266,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952463,
+            "Name": "Milky Biscuit-2",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 173,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952466,
+            "Name": "Milky Biscuit-5",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 139,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952436,
+            "Name": "Choco Biscuit-3",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 82,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952464,
+            "Name": "Milky Biscuit-3",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 40,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952460,
+            "Name": "Orange Biscuit-7",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 54,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952461,
+            "Name": "Orange Biscuit-8",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 76,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952458,
+            "Name": "Orange Biscuit-5",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 76,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952459,
+            "Name": "Orange Biscuit-6",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 76,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952456,
+            "Name": "Orange Biscuit-3",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 43,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952457,
+            "Name": "Orange Biscuit-4",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 82,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952454,
+            "Name": "Orange Biscuit-1",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 76,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952455,
+            "Name": "Orange Biscuit-2",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 60,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952452,
+            "Name": "Ilaychi Biscuit-9",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 87,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952453,
+            "Name": "Ilaychi Biscuit-10",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 35,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952450,
+            "Name": "Ilaychi Biscuit-7",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 65,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952451,
+            "Name": "Ilaychi Biscuit-8",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 78,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952448,
+            "Name": "Ilaychi Biscuit-5",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 99,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952449,
+            "Name": "Ilaychi Biscuit-6",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 89,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952465,
+            "Name": "Milky Biscuit-4",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 78,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952446,
+            "Name": "Ilaychi Biscuit-3",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 26,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952447,
+            "Name": "Ilaychi Biscuit-4",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 37,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952444,
+            "Name": "Ilaychi Biscuit-1",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 139,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952445,
+            "Name": "Ilaychi Biscuit-2",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 46,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952442,
+            "Name": "Choco Biscuit-9",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 638,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952440,
+            "Name": "Choco Biscuit-7",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 77,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952441,
+            "Name": "Choco Biscuit-8",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 75,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952438,
+            "Name": "Choco Biscuit-5",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 48,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952439,
+            "Name": "Choco Biscuit-6",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 55,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        },
+        {
+            "Id": 952437,
+            "Name": "Choco Biscuit-4",
+            "SumOfPrimarySalesDispatch": 0,
+            "SumOfPrimarySales": 0,
+            "SumOfSecondarySalesDispatch": 0,
+            "SumOfSecondarySales": 704,
+            "DiffDispatch": 0,
+            "SecVsPrim": 0.0
+        }
+    ]
+}
