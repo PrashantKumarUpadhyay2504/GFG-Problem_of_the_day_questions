@@ -6,6 +6,7 @@ int height(Node *root){
     return (leftHeight>rightHeight?leftHeight:rightHeight)+1;
 }
 int bf(Node *root){
+
     if(!root)
         return 0;
     int leftHeight = height(root->left);
